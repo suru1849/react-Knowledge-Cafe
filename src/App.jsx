@@ -1,9 +1,11 @@
-function App() {
-  const [count, setCount] = useState(0);
+import Blogs from "./components/Blogs/Blogs";
+import Header from "./components/header/Header";
 
+function App() {
   return (
     <>
-      <h1>Knowledge Cafe</h1>
+      <Header />
+      <Blogs />
     </>
   );
 }

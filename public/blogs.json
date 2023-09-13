@@ -1,0 +1,52 @@
+[
+  {
+      "id": 1,
+      "cover": "https://i.ibb.co/rwrbd5X/1.jpg",
+      "title": "The Secret Garden",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/r5GjvD7/boy1.png",
+      "posted_date": "2023-09-14",
+      "reading_time": 30,
+      "hashtags": ["#fiction", "#classic", "#mystery"]
+  },
+  {
+      "id": 2,
+      "cover": "https://i.ibb.co/vsvDks8/2.png",
+      "title": "The Catcher in the Rye",
+      "author": "Sarah Johnson",
+      "author_img": "https://i.ibb.co/JrF2jZt/boy2.jpg",
+      "posted_date": "2023-09-14",
+      "reading_time": 45,
+      "hashtags": ["#fiction", "#comingofage", "#classic"]
+  },
+  {
+      "id": 3,
+      "cover": "https://i.ibb.co/vsvDks8/2.png",
+      "title": "To Kill a Mockingbird",
+      "author": "Mrs Browni",
+      "author_img": "https://i.ibb.co/brzVV71/girl1.jpg",
+      "posted_date": "2023-09-14",
+      "reading_time": 25,
+      "hashtags": ["#fiction", "#classic", "#socialjustice"]
+  },
+  {
+      "id": 4,
+      "cover": "https://i.ibb.co/QXdVXT7/4.jpg",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "Emily Davis",
+      "author_img": "https://i.ibb.co/phqvCgY/girl2.jpg",
+      "posted_date": "2023-09-14",
+      "reading_time": 40,
+      "hashtags": ["#fantasy", "#magic", "#adventure"]
+  },
+  {
+      "id": 5,
+      "cover": "https://example.com/cover5.jpg",
+      "title": "The Great Gatsby",
+      "author": "Robert Wilson",
+      "author_img": "https://example.com/author5.jpg",
+      "posted_date": "2023-09-14",
+      "reading_time": 20,
+      "hashtags": ["#fiction", "#classic", "#romance"]
+  }
+]
