@@ -10,7 +10,11 @@ const Blogs = () => {
       .then((data) => setBlogs(data));
   }, []);
 
-  return <div></div>;
+  return (
+    <div className="w-3/4">
+      <h1 className="text-4xl">Blogs: </h1>
+    </div>
+  );
 };
 
 export default Blogs;
