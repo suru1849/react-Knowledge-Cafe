@@ -2,7 +2,7 @@
   {
       "id": 1,
       "cover": "https://i.ibb.co/rwrbd5X/1.jpg",
-      "title": "The Secret Garden",
+      "title": "Top 10n ES6 Features You Must Know",
       "author": "John Smith",
       "author_img": "https://i.ibb.co/r5GjvD7/boy1.png",
       "posted_date": "2023-09-14",
@@ -12,7 +12,7 @@
   {
       "id": 2,
       "cover": "https://i.ibb.co/vsvDks8/2.png",
-      "title": "The Catcher in the Rye",
+      "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
       "author": "Sarah Johnson",
       "author_img": "https://i.ibb.co/JrF2jZt/boy2.jpg",
       "posted_date": "2023-09-14",
@@ -22,7 +22,7 @@
   {
       "id": 3,
       "cover": "https://i.ibb.co/vsvDks8/2.png",
-      "title": "To Kill a Mockingbird",
+      "title": "Component lifeCycle in React--Class component vs FUntional component",
       "author": "Mrs Browni",
       "author_img": "https://i.ibb.co/brzVV71/girl1.jpg",
       "posted_date": "2023-09-14",
@@ -38,15 +38,6 @@
       "posted_date": "2023-09-14",
       "reading_time": 40,
       "hashtags": ["#fantasy", "#magic", "#adventure"]
-  },
-  {
-      "id": 5,
-      "cover": "https://example.com/cover5.jpg",
-      "title": "The Great Gatsby",
-      "author": "Robert Wilson",
-      "author_img": "https://example.com/author5.jpg",
-      "posted_date": "2023-09-14",
-      "reading_time": 20,
-      "hashtags": ["#fiction", "#classic", "#romance"]
   }
+
 ]

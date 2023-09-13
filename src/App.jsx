@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Header />
-      <main className="flex flex-col md:flex-row">
+      <main className="flex flex-col md:flex-row max-w-7xl mx-auto">
         <Blogs />
         <Bookmarks />
       </main>
